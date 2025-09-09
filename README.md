@@ -38,9 +38,10 @@ Make sure you have Python *3.8+* installed.
 
 Install dependencies with:
 
-bash
+```bash
 pip install pandas numpy geopy folium requests openpyxl
 
+```
 
 ---
 
@@ -72,7 +73,7 @@ We use *Folium’s DualMap* to display two maps side by side:
 
 Example code:
 
-python
+```python
 from folium.plugins import DualMap
 
 # Initialize dual map
@@ -89,7 +90,7 @@ folium.GeoJson(short_route_geojson,
 
 # Display
 m
-
+```
 
 ---
 

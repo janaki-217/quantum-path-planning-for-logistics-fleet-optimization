@@ -100,7 +100,7 @@ m
 
 | Long Route (Original Order)        | Short Route (Nearest Neighbor)       |
 | ---------------------------------- | ------------------------------------ |
-|![long_route png](docs/long_route.png)|![short_route png](docs/short_route.png)
+|![long_route png](https://github.com/user-attachments/assets/5a0ee9d3-328c-4361-a079-6e50d4b81054>)|![short_route png](https://github.com/janaki-217/quantum-path-planning-for-logistics-fleet-optimization/blob/5e9e2ba32d4d9b22a734734fb7b01349208cc862/short_route.png.jpg)
 
 
 ---

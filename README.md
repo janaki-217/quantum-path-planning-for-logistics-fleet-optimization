@@ -98,9 +98,9 @@ m
 
 | Long Route (Original Order)        | Short Route (Nearest Neighbor)       |
 | ---------------------------------- | ------------------------------------ |
-| ![long-route](![picture1](https://github.com/user-attachments/assets/47d7feba-8593-4893-99a7-b325f4d4a36b)
+| ![long-route](![picture1]("C:\Users\sarak\OneDrive\Documents\picture1.jpg")
 ]()
-) | ![short-route](![picture2](https://github.com/user-attachments/assets/da7b738b-4d65-46af-8f61-bab074ec87ed)
+) | ![short-route](![picture2]("C:\Users\sarak\OneDrive\Documents\picture2.jpg")
 ) |
 
 ---

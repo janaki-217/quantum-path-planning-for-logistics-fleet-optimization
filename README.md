@@ -96,8 +96,6 @@ m
 
 ## 📊 Example Output
 
-## 📊 Example Output
-
 | Long Route (Original Order)        | Short Route (Nearest Neighbor)       |
 | ---------------------------------- | ------------------------------------ |
 |![long_route png](https://github.com/janaki-217/quantum-path-planning-for-logistics-fleet-optimization/blob/09d10e29b18057e4315ce631ee3288d209003320/long_route.png.jpg)|![short_route png](https://github.com/janaki-217/quantum-path-planning-for-logistics-fleet-optimization/blob/5e9e2ba32d4d9b22a734734fb7b01349208cc862/short_route.png.jpg)

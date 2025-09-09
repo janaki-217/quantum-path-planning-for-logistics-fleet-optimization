@@ -1,9 +1,3 @@
-Perfect 👍 You want a *GitHub-style documentation (README.md)* for your *Customer Routing / Nearest Neighbor vs Long Route* project, based on the CVRP reference you provided.
-
-Here’s a polished version you can directly use for your repo 👇
-
----
-
 # Vehicle Route Visualization (Long Route vs Shortest Route)
 
 This project demonstrates how to visualize and compare *different routing strategies* for delivery customers using Python.
@@ -54,7 +48,7 @@ pip install pandas numpy geopy folium requests openpyxl
 
 ### 1. Load Customer Data
 
-python
+'''python
 import pandas as pd
 
 df_demo = pd.read_excel("Customer Data.xlsx")

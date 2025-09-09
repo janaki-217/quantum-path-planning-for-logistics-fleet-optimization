@@ -98,7 +98,7 @@ m
 
 | Long Route (Original Order)        | Short Route (Nearest Neighbor)       |
 | ---------------------------------- | ------------------------------------ |
-| ![long-route](docs/long_route.png) | ![short-route](docs/short_route.png) |
+| ![long-route]("C:\Users\sarak\Downloads\picture 1.jpg") | ![short-route](docs/short_route.png) |
 
 ---
 

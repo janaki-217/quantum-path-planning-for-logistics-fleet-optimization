@@ -96,12 +96,11 @@ m
 
 ## 📊 Example Output
 
+## 📊 Example Output
+
 | Long Route (Original Order)        | Short Route (Nearest Neighbor)       |
 | ---------------------------------- | ------------------------------------ |
-| ![long-route](![picture1](https://github.com/user-attachments/assets/b57446d8-209b-4e02-bc5d-6c731115ad51)
-") | ![short-route](![picture2](https://github.com/user-attachments/assets/1bd93d55-6ea2-405a-97f8-7f636f8be518)
-![Uploading picture2.jpg…]()
-) |
+|![long_route png](docs/long_route.png)|![short_route png](docs/short_route.png)
 
 
 ---

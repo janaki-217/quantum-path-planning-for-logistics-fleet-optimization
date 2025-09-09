@@ -49,9 +49,11 @@ pip install pandas numpy geopy folium requests openpyxl
 ### 1. Load Customer Data
 
 '''python
+
 import pandas as pd
 
 df_demo = pd.read_excel("Customer Data.xlsx")
+'''
 
 
 ### 2. Compute Routes

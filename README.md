@@ -98,10 +98,8 @@ m
 
 | Long Route (Original Order)        | Short Route (Nearest Neighbor)       |
 | ---------------------------------- | ------------------------------------ |
-| ![long-route](![picture1]("C:\Users\sarak\OneDrive\Documents\picture1.jpg")
-]()
-) | ![short-route](![picture2]("C:\Users\sarak\OneDrive\Documents\picture2.jpg")
-) |
+| ![long-route]("C:\Users\sarak\OneDrive\Documents\picture1.jpg") | ![short-route]("C:\Users\sarak\OneDrive\Documents\picture2.jpg") |
+
 
 ---
 
